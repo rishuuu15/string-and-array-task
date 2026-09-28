@@ -169,3 +169,7 @@ console.log(Arr)
 // 44. Remove all scores below 70.
 
 // 45. Check if every score is greater than 50.
+
+
+
+
